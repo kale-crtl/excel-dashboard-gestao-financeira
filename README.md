@@ -8,7 +8,7 @@ Painel executivo interativo desenvolvido no **Microsoft Excel**, focado na conso
 
 
 ![Prévia do Dashboard Financeiro](PROJETO%20EXCEL.png)
-*(Nota: Substitua este arquivo ou certifique-se de carregar a imagem real do seu dashboard na raiz do repositório)*
+
 
 ---
 
